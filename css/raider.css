@@ -1,11 +1,11 @@
 /*removed the image and did straight background*/
         body {
 	background-color:#000000;
-	background-position: center;
-	background-repeat: no-repeat;	
-	height:100%;
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	padding:100px 0 100px 0;
+	height:auto;
+	margin-top: 0px;
+	padding-top:10px;
+	color:#ff0000;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
 }
 /* added the h1*/
 h1 {
