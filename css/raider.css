@@ -1,7 +1,7 @@
 
         body {
 	background-color:#000000;
-	background-image: url(images/raiders-logo.jpg);
+	background-image: url(images/raider-banner.jpg);
 	background-position: center;
 	background-repeat: no-repeat;	
 	height:100%;
@@ -172,7 +172,7 @@ textarea#title {
 }
 #options p {
 	margin-bottom:0px;
-	color:#088A08;
+	color:#818181;
 	font-weight: bold;	
 }
 
@@ -226,7 +226,7 @@ input.add-points {
 	font-size:20px;
 	cursor:pointer;
 	padding:0px;
-	background-color:#ffffff;
+	background-color:#818181;
 	border:none;
 	display:inline;
 }
@@ -238,7 +238,7 @@ input.subtract-points {
 	font-size:20px;
 	cursor:pointer;	
 	padding:0px;
-	background-color:#FFFFFF;
+	background-color:#818181;
 	border:none;
 	display:inline;
 }
@@ -247,7 +247,7 @@ input.subtract-points {
 	display:none;
 	height:100%;
 	width:100%;
-	background-color:#2a3698;
+	background-color:#818181;
 	color:#FFFFFF;
 	text-align:center;
 }
