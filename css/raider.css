@@ -224,6 +224,7 @@ textarea#title {
 }
 
 #stats table th {
+	background-color:#818181;
 	border-bottom:1px solid black;
 }
 
