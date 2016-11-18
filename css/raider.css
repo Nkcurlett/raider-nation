@@ -95,7 +95,7 @@ textarea#title {
 }
 /*columns*/
 /*background image in cells*/
-#game tbody td {
+#game td {
     cursor:pointer;
     height:100px;
     border:3px solid #fff;
