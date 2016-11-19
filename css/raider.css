@@ -1,5 +1,5 @@
 /*removed the image and did straight background*/
-        body {
+    body {
 	background-color:#000000;
 	height:auto;
 	margin-top: 0px;
@@ -84,6 +84,7 @@ textarea#title {
 #game tbody td, #game thead th {
 	vertical-align: middle;
 	background-color:#818181;
+	 background-image: url(images/raiders-logo.jpg);
 	padding:5px;
 	text-align:center;
 	width:19%;
@@ -199,9 +200,10 @@ textarea#title {
 	position:fixed;
 	bottom:0;
 	background-color:#818181;
+	background-image: url(images/raiders-logo.jpg);
 	width:100%;
 	text-align:center;
-	height:175px;
+	height:130px;
 	display:none;
 	left:0;
 }
@@ -216,7 +218,9 @@ textarea#title {
     font-size:18px;
     font-weight:bold;
     text-align:center;
+    color: #fff;
     font-family: Verdana, Arial, Helvetica, sans-serif;
+    background-color:#818181;
     width:100%;
     display:block;
 }
