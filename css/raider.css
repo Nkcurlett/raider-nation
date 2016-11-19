@@ -200,10 +200,9 @@ textarea#title {
 	position:fixed;
 	bottom:0;
 	background-color:#818181;
-	background-image: url(images/raiders-logo.jpg);
 	width:100%;
 	text-align:center;
-	height:130px;
+	height:100px;
 	display:none;
 	left:0;
 }
