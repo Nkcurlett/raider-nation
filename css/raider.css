@@ -132,7 +132,7 @@ textarea#title {
 }*/
 
 #game tbody td.dirty h3 {
-	color:#818181;
+	color:#f00;
 	 background-image: url(../images/raiders-logo.jpg);
 	 width:100%;
          height:100px;
