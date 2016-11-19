@@ -14,7 +14,13 @@ h1 {
     text-shadow:2px 2px #000;
     font-family:Verdana, Arial, Helvetica, sans-serif;
 }
-
+td{
+	background-image: url(images/raider-logo.jpg);
+	height:100px;
+       background-position: center;
+       background-repeat: no-repeat;
+	
+}
 label {
 	display:block;
 	font-size:16px;
