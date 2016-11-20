@@ -10,8 +10,8 @@
 /* added the h1*/
 h1 {
     text-align: center;
-    color:#ff0000;
-    text-shadow:2px 2px #000;
+    color:#000;
+    text-shadow:2px 2px #818181;
     font-family:Verdana, Arial, Helvetica, sans-serif;
 }
 
@@ -180,9 +180,10 @@ textarea#title {
 }
 
 #options h1 {
-	color:#818181;
 	font-size:50px;
 	text-align:center;
+	color:#000;
+        text-shadow:2px 2px #818181;
 }
 
 #options label {
