@@ -87,7 +87,8 @@ textarea#title {
 	padding:5px;
 	text-align:center;
 	width:19%;
-	color:#000000;
+	color:#818181;
+        text-shadow:2px 2px #000;
 	height:60px;
 	font-size:20px;
 	border: 2px solid #fff;
@@ -99,7 +100,8 @@ textarea#title {
 	padding:5px;
 	text-align:center;
 	width:19%;
-	color:#000000;
+	color:#818181;
+        text-shadow:2px 2px #000;
 	height:100px;
 	font-size:20px;
 	border: 2px solid #fff;
